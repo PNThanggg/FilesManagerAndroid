@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="create_archive_type_seven_z_visibility">@integer/visibility_visible</integer>
+</resources>
